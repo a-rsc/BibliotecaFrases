@@ -6,4 +6,6 @@
 * El path dels arxius podria haver estat un string amb tota la ruta absoluta de l'arxiu.
 * Com he afegit el mètode ParaulesFileTest que llegeix un arxiu i retorna un string, també s'ha de testejar.
 
+* L'ordre de les paraules amb les mateixes repeticions és imprevissible, caldria un proces que fes aquesta ordenació. L'ordre de les úniques sí que es respecte
+
 Vamosss
