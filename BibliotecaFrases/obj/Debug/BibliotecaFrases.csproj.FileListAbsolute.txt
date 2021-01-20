@@ -1,0 +1,6 @@
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M5-UF2-git\BibliotecaFrases\BibliotecaFrases\bin\Debug\BibliotecaFrases.dll
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M5-UF2-git\BibliotecaFrases\BibliotecaFrases\bin\Debug\BibliotecaFrases.pdb
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M5-UF2-git\BibliotecaFrases\BibliotecaFrases\obj\Debug\BibliotecaFrases.csprojAssemblyReference.cache
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M5-UF2-git\BibliotecaFrases\BibliotecaFrases\obj\Debug\BibliotecaFrases.csproj.CoreCompileInputs.cache
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M5-UF2-git\BibliotecaFrases\BibliotecaFrases\obj\Debug\BibliotecaFrases.dll
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M5-UF2-git\BibliotecaFrases\BibliotecaFrases\obj\Debug\BibliotecaFrases.pdb
